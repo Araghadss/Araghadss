@@ -1,8 +1,21 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="60"/>
-</p>
+<svg width="100%" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
 
----
+  <polygon 
+    points="400,35 404,45 414,49 404,53 400,63 396,53 386,49 396,45"
+    fill="#7FBF7F"
+    opacity="0">
+
+    <animate
+      attributeName="opacity"
+      values="0;0;1;1;0"
+      keyTimes="0;0.4;0.41;0.7;1"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+
+  </polygon>
+
+</svg>
+
 
 ## About Me
 
