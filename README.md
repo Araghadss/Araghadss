@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=500&pause=300&color=7FBF7F&width=80&lines=.;..;..."/>
 
 </div>
+
 ## About Me
 
 Information Technology student at **King Saud University** specializing in **Data Science and Artificial Intelligence**.  
