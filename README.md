@@ -101,4 +101,4 @@ My long-term goal is to work on advanced AI applications in areas such as **smar
 ## Connect
 
 - Email: raghadaldajaniii@gmail.com
-- LinkedIn: https://linkedin.com/in/raghad-aldajani
+- LinkedIn: [https://linkedin.com/in/raghad-aldajani](https://www.linkedin.com/in/raghad-aldajani-b967b627a/)
