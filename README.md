@@ -74,11 +74,6 @@ Tech: Python, Pandas, NumPy, Scikit-learn
 
 A web platform that connects individuals with expert home service providers and professional handymen.
 
-Users can schedule services, manage reservations, and receive real-time updates.  
-Service providers can register, showcase their expertise, and offer services through the platform.
-
-The platform supports services such as deep cleaning, plumbing, repairs, and landscaping.
-
 Tech: PHP, MySQL, HTML, CSS, JavaScript
 
 ---
