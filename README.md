@@ -11,14 +11,13 @@ Interested in building intelligent systems, analyzing data, and developing pract
 
 ## Currently Learning
 
-• Machine Learning & Model Evaluation
-• Natural Language Processing (NLP)
-• Big Data Technologies (Apache Spark)
-• Power BI & Data Visualization
-• Project Management Fundamentals
-• Recommendation Systems
-• Smart Data-Driven Systems
-
+- Machine Learning & Model Evaluation
+- Natural Language Processing (NLP)
+- Big Data Technologies (Apache Spark)
+- Power BI & Data Visualization
+- Project Management Fundamentals
+- Recommendation Systems
+- Smart Data-Driven Systems
 ---
 
 ## Technical Skills
@@ -101,5 +100,5 @@ My long-term goal is to work on advanced AI applications in areas such as **smar
 
 ## Connect
 
-Email: [raghadaldajaniii@gmail.com](mailto:raghadaldajaniii@gmail.com)
-LinkedIn: https://linkedin.com/in/raghad-aldajani
+- Email: raghadaldajaniii@gmail.com
+- LinkedIn: https://linkedin.com/in/raghad-aldajani
