@@ -10,7 +10,7 @@
       values="0;0;1;1;0"
       keyTimes="0;0.4;0.41;0.7;1"
       dur="2.5s"
-      repeatCount="indefinite"/>
+      repeatCount="indefinite" />
 
   </polygon>
 
