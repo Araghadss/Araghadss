@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Raghad 👋
 
-<!--
-**Araghadss/Araghadss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student at King Saud University  
+📊 Interested in Data Science & Artificial Intelligence  
+💡 Passionate about building practical tech solutions  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- Data Analysis
+- Power BI
+- Flutter
+- Firebase
+- HTML, CSS, JavaScript
+- PHP & MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 AI-Powered Esports Platform (SPARK)  
+Mobile platform that predicts esports match outcomes using machine learning.
+
+🔹 Machine Learning for Stock Decisions  
+ML model predicting stock movement and generating buy/not-buy signals.
+
+🔹 Hospital Appointment System  
+Full-stack web application for booking and managing patient appointments.
+
+## Currently Learning
+- Advanced Machine Learning
+- AI Applications
+- Data Visualization
+
+📫 Reach me: raghadaldajaniii@gmail.com
