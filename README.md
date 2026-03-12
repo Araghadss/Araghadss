@@ -1,5 +1,5 @@
-<p align="right">
-<img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=22&right=true&lines=Data+Science+Student;AI+Enthusiast;Building+Smart+Systems" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/saadeghi/files/main/dino.gif" width="60"/>
 </p>
 
 ---
