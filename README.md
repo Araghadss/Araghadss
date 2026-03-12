@@ -1,25 +1,19 @@
-# Hi, I'm Raghad Aldajani 👋
+# Hi, I'm Raghad Sultan 👋
 
-🎓 Information Technology Student at King Saud University  
-📊 Interested in Data Science & Artificial Intelligence  
-📍 Riyadh, Saudi Arabia  
-
----
-
-## About Me
-
-I am an IT student specializing in **Data Science and Artificial Intelligence**, passionate about using machine learning and data analysis to solve real-world problems.
-
-I enjoy building practical systems, analyzing data, and developing intelligent solutions.
+IT student at King Saud University specializing in Data Science and Artificial Intelligence.  
+Passionate about building intelligent systems, analyzing data, and creating practical technology solutions.
 
 ---
 
 ## Currently Learning
 
 • Machine Learning & Model Evaluation  
-• Data Analysis with Python  
-• Power BI Data Visualization  
-• AI Applications  
+• Natural Language Processing (NLP)  
+• Big Data Technologies (Apache Spark)  
+• Power BI & Data Visualization  
+• Project Management Fundamentals  
+• Recommendation Systems  
+• Building Smart Data-Driven Systems  
 
 ---
 
@@ -29,39 +23,57 @@ I enjoy building practical systems, analyzing data, and developing intelligent s
 Python | Java | PHP | SQL
 
 ### Web Development
-HTML | CSS | JavaScript
+HTML | CSS
 
 ### Data & AI
-Machine Learning | Data Analysis | Power BI | Pandas | NumPy | Scikit-Learn
+Data Science | Machine Learning | Natural Language Processing (NLP)
 
-### Tools
-GitHub | Firebase | phpMyAdmin
+### Libraries & Big Data
+Pandas | NumPy | Apache Spark
+
+### Visualization
+Power BI
+
+### Tools & Platforms
+GitHub | Microsoft Tools | Figma | Canva
 
 ---
 
 ## Featured Projects
 
 ### SPARK – AI Powered Esports Platform
-Mobile platform that allows esports players to form teams and predict match outcomes using machine learning models.
+Graduation project focused on analyzing esports player performance, forming balanced teams, and predicting match outcomes using machine learning and data-driven insights.
 
-Tech:
-Flutter, Firebase, Python, Machine Learning
+Tech: Flutter, Firebase, Python, Machine Learning
 
 ---
 
 ### Machine Learning for Stock Decisions
-Machine learning model predicting next-day stock movement and generating Buy/Not Buy recommendations.
+Machine learning project predicting next-day stock movement and generating Buy/Not-Buy recommendations using historical market data.
 
-Tech:
-Python, Pandas, NumPy, Scikit-learn
+Tech: Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### Hospital Appointment System
-Full-stack web application that allows patients to book and manage hospital appointments.
+### Ḥādhiq – Home Services Platform
+A user-friendly web platform that connects individuals with expert home service providers and professional handymen.
 
-Tech:
-PHP, MySQL, HTML, CSS, JavaScript
+Tech: Web Development Technologies
+
+---
+
+### Web Project – Restaurant Website
+Responsive website designed to present restaurant menus and services with a clean and user-friendly interface.
+
+Tech: HTML, CSS, PHP
+
+---
+
+## Future Vision
+
+I aspire to contribute to the development of intelligent AI systems that improve people's lives through data-driven solutions.
+
+My long-term goal is to work on advanced AI applications in areas such as smart systems, business analytics, and large-scale data analysis.
 
 ---
 
