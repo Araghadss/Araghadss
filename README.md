@@ -1,22 +1,8 @@
-<svg width="100%" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+<div align="right" style="margin-top:60px;">
 
-  <polygon 
-    points="400,35 404,45 414,49 404,53 400,63 396,53 386,49 396,45"
-    fill="#7FBF7F"
-    opacity="0">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&duration=500&pause=300&color=7FBF7F&width=80&lines=.;..;..."/>
 
-    <animate
-      attributeName="opacity"
-      values="0;0;1;1;0"
-      keyTimes="0;0.4;0.41;0.7;1"
-      dur="2.5s"
-      repeatCount="indefinite" />
-
-  </polygon>
-
-</svg>
-
-
+</div>
 ## About Me
 
 Information Technology student at **King Saud University** specializing in **Data Science and Artificial Intelligence**.  
