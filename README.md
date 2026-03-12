@@ -1,7 +1,13 @@
-# Hi, I'm Raghad Sultan 👋
+<p align="right">
+<img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=22&right=true&lines=Data+Science+Student;AI+Enthusiast;Building+Smart+Systems" />
+</p>
 
-IT student at King Saud University specializing in Data Science and Artificial Intelligence.  
-Passionate about building intelligent systems, analyzing data, and creating practical technology solutions.
+---
+
+## About Me
+
+Information Technology student at **King Saud University** specializing in **Data Science and Artificial Intelligence**.  
+Interested in building intelligent systems, analyzing data, and developing practical technology solutions.
 
 ---
 
@@ -13,57 +19,73 @@ Passionate about building intelligent systems, analyzing data, and creating prac
 • Power BI & Data Visualization  
 • Project Management Fundamentals  
 • Recommendation Systems  
-• Building Smart Data-Driven Systems  
+• Smart Data-Driven Systems  
 
 ---
 
 ## Technical Skills
 
 ### Programming
-Python | Java | PHP | SQL
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php)
+![SQL](https://img.shields.io/badge/SQL-red?style=flat-square&logo=mysql)
 
 ### Web Development
-HTML | CSS
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 
 ### Data & AI
-Data Science | Machine Learning | Natural Language Processing (NLP)
+![Data Science](https://img.shields.io/badge/Data%20Science-green?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-purple?style=flat-square)
 
 ### Libraries & Big Data
-Pandas | NumPy | Apache Spark
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-orange?style=flat-square&logo=apachespark)
 
-### Visualization
-Power BI
-
-### Tools & Platforms
-GitHub | Microsoft Tools | Figma | Canva
+### Tools
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=powerbi)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![Microsoft](https://img.shields.io/badge/Microsoft-gray?style=flat-square&logo=microsoft)
+![Figma](https://img.shields.io/badge/Figma-red?style=flat-square&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-blue?style=flat-square&logo=canva)
 
 ---
 
 ## Featured Projects
 
-### SPARK – AI Powered Esports Platform
-Graduation project focused on analyzing esports player performance, forming balanced teams, and predicting match outcomes using machine learning and data-driven insights.
+### SPARK — AI Powered Esports Platform
+Graduation project focused on analyzing esports player performance, team formation, and predicting match outcomes using machine learning.
 
 Tech: Flutter, Firebase, Python, Machine Learning
 
 ---
 
 ### Machine Learning for Stock Decisions
-Machine learning project predicting next-day stock movement and generating Buy/Not-Buy recommendations using historical market data.
+Machine learning project predicting next-day stock movement and generating Buy/Not-Buy recommendations.
 
 Tech: Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### Ḥādhiq – Home Services Platform
-A user-friendly web platform that connects individuals with expert home service providers and professional handymen.
+### Ḥādhiq — Home Services Platform
 
-Tech: Web Development Technologies
+A web platform that connects individuals with expert home service providers and professional handymen.
+
+Users can schedule services, manage reservations, and receive real-time updates.  
+Service providers can register, showcase their expertise, and offer services through the platform.
+
+The platform supports services such as deep cleaning, plumbing, repairs, and landscaping.
+
+Tech: PHP, MySQL, HTML, CSS, JavaScript
 
 ---
 
-### Web Project – Restaurant Website
-Responsive website designed to present restaurant menus and services with a clean and user-friendly interface.
+### Restaurant Website
+
+Responsive web application presenting restaurant menus and services.
 
 Tech: HTML, CSS, PHP
 
@@ -73,11 +95,11 @@ Tech: HTML, CSS, PHP
 
 I aspire to contribute to the development of intelligent AI systems that improve people's lives through data-driven solutions.
 
-My long-term goal is to work on advanced AI applications in areas such as smart systems, business analytics, and large-scale data analysis.
+My long-term goal is to work on advanced AI applications in areas such as **smart systems, business analytics, and large-scale data analysis**.
 
 ---
 
-## Connect With Me
+## Connect
 
 Email: raghadaldajaniii@gmail.com  
 LinkedIn: https://linkedin.com/in/raghad-aldajani
