@@ -1,32 +1,71 @@
-# Hi, I'm Raghad 👋
+# Hi, I'm Raghad Aldajani 👋
 
-🎓 IT Student at King Saud University  
+🎓 Information Technology Student at King Saud University  
 📊 Interested in Data Science & Artificial Intelligence  
-💡 Passionate about building practical tech solutions  
+📍 Riyadh, Saudi Arabia  
 
-## Skills
-- Python
-- Machine Learning
-- Data Analysis
-- Power BI
-- Flutter
-- Firebase
-- HTML, CSS, JavaScript
-- PHP & MySQL
+---
 
-## Projects
-🔹 AI-Powered Esports Platform (SPARK)  
-Mobile platform that predicts esports match outcomes using machine learning.
+## About Me
 
-🔹 Machine Learning for Stock Decisions  
-ML model predicting stock movement and generating buy/not-buy signals.
+I am an IT student specializing in **Data Science and Artificial Intelligence**, passionate about using machine learning and data analysis to solve real-world problems.
 
-🔹 Hospital Appointment System  
-Full-stack web application for booking and managing patient appointments.
+I enjoy building practical systems, analyzing data, and developing intelligent solutions.
+
+---
 
 ## Currently Learning
-- Advanced Machine Learning
-- AI Applications
-- Data Visualization
 
-📫 Reach me: raghadaldajaniii@gmail.com
+• Machine Learning & Model Evaluation  
+• Data Analysis with Python  
+• Power BI Data Visualization  
+• AI Applications  
+
+---
+
+## Technical Skills
+
+### Programming
+Python | Java | PHP | SQL
+
+### Web Development
+HTML | CSS | JavaScript
+
+### Data & AI
+Machine Learning | Data Analysis | Power BI | Pandas | NumPy | Scikit-Learn
+
+### Tools
+GitHub | Firebase | phpMyAdmin
+
+---
+
+## Featured Projects
+
+### SPARK – AI Powered Esports Platform
+Mobile platform that allows esports players to form teams and predict match outcomes using machine learning models.
+
+Tech:
+Flutter, Firebase, Python, Machine Learning
+
+---
+
+### Machine Learning for Stock Decisions
+Machine learning model predicting next-day stock movement and generating Buy/Not Buy recommendations.
+
+Tech:
+Python, Pandas, NumPy, Scikit-learn
+
+---
+
+### Hospital Appointment System
+Full-stack web application that allows patients to book and manage hospital appointments.
+
+Tech:
+PHP, MySQL, HTML, CSS, JavaScript
+
+---
+
+## Connect With Me
+
+Email: raghadaldajaniii@gmail.com  
+LinkedIn: https://linkedin.com/in/raghad-aldajani
