@@ -4,7 +4,7 @@
 
 ## About Me
 
-Information Technology professional at **King Saud University**, specializing in **Data Science and Artificial Intelligence**.
+Information Technology student at **King Saud University**, specializing in **Data Science and Artificial Intelligence**.
 Interested in building intelligent systems, analyzing data, and developing practical technology solutions.
 
 ---
